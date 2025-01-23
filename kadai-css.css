@@ -20,6 +20,7 @@ header p {
 }
 
 #wrapper{
+    width: 1000px;
     display:flex;
     justify-content: flex-start;
 }
